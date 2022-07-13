@@ -3,4 +3,4 @@ project(CoddyCpp)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(CoddyCpp main.cpp)
+add_executable(CoddyCpp main.cpp Module1/Lesson1_types.cpp)
